@@ -1,8 +1,12 @@
-# DESAFIO DE PROJETO DIO x HEINEKEN
+# DESAFIO DE PROJETO DIO x HEINEKEN 🍺
 
-# **Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE**
+## **Refinando um Projeto Conceitual de Banco de Dados  E-COMMERCE**
 
 
+
+🎯 Este projeto tem como objetivo aplicar e refinar práticas de modelagem de banco de dados no contexto de um sistema de e-commerce.
+
+---
 
 ## **Descrição do Projeto**
 📚 Este projeto foi desenvolvido como parte do desafio do bootcamp **Heineken - Inteligência Artificial Aplicada a Dados com Copilot** e apresenta um modelo conceitual de banco de dados para um sistema de e-commerce. 
@@ -62,6 +66,17 @@ Este projeto reflete minha dedicação em seguir boas práticas e contribuir par
 
 ---
 
+## Contato
+
+Para dúvidas ou sugestões, entre em contato:
+- **E-mail:** (sguimaraes1004@gmail.com)
+- **Redes Sociais:** (https://www.linkedin.com/in/silvia-maria-guimar%C3%A3es-costa-3a01b423b)
+
+---
+
 🍺 _A parceria com a Heineken reforça o compromisso de promover a inovação e o aprendizado na área de tecnologia._
 
 ---
+
+
+# ![DIO Logo](https://hermes.digitalinnovation.one/assets/diome/logo.png)
